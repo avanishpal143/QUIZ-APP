@@ -36,11 +36,17 @@ An engaging and dynamic quiz platform built with **React.js** and **Tailwind CSS
 | **IndexedDB** | Local storage for quiz history |
 | **Lucide-React** | Icon library |
 
+## 🖥️ Tech Stack
+
+- **Frontend**: React.js, Tailwind CSS, Lucide-React
+- **Backend**: IndexedDB for storing quiz attempts
+- **State Management**: React Hooks (useState, useEffect)
+
 ## 🛠️ Installation & Setup
 
 1. **Clone the repository**
    ```sh
-   git clone [https://github.com/avanishpal143/QUIZ-APP].git
+   git clone https://github.com/avanishpal143/QUIZ-APP.git
    cd quiz-app
 
 3. **Install dependencies**
@@ -98,9 +104,11 @@ Feel free to **fork** this repository, create a new branch, and submit a pull re
 This project is licensed under the **MIT License**.
 
 ## 🔗 Links
-- 🌍 [Live Demo]([https://quiz-app-check-your-knowledge.vercel.app])
-- 💻 [GitHub Repository]([https://github.com/avanishpal143/QUIZ-APP])
+- 🌍 [Live Demo](https://quiz-app-check-your-knowledge.vercel.app)
+- 💻 [GitHub Repository](https://github.com/avanishpal143/QUIZ-APP)
 
 ---
+🚀 Built by [Avanish Pal](https://github.com/avanishpal143)
 
+---
 Happy Coding! 🚀
