@@ -40,7 +40,7 @@ An engaging and dynamic quiz platform built with **React.js** and **Tailwind CSS
 
 1. **Clone the repository**
    ```sh
-   git clone [https://github.com/your-username/quiz-app](https://github.com/avanishpal143/QUIZ-APP.git).git
+   git clone [https://github.com/avanishpal143/QUIZ-APP].git
    cd quiz-app
 
 3. **Install dependencies**
@@ -98,8 +98,8 @@ Feel free to **fork** this repository, create a new branch, and submit a pull re
 This project is licensed under the **MIT License**.
 
 ## 🔗 Links
-- 🌍 [Live Demo]([https://your-live-demo-link.com](https://quiz-app-check-your-knowledge.vercel.app/))
-- 💻 [GitHub Repository]([https://github.com/your-username/quiz-app](https://github.com/avanishpal143/QUIZ-APP))
+- 🌍 [Live Demo]([https://quiz-app-check-your-knowledge.vercel.app])
+- 💻 [GitHub Repository]([https://github.com/avanishpal143/QUIZ-APP])
 
 ---
 
